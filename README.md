@@ -2,11 +2,11 @@
 
 A repository with which to practice using git.
 
-### What is your name?
+###### What is your name?
 
-> Answer goes here
+> **Daniel Colina**
 
 
 ### What is your favorite color?
 
-> Answer goes here
+> _Cherry Blossom Pink_
